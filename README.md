@@ -52,7 +52,7 @@
 
 <div align="center">
   
-  ![LuciferBloodFalen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuciferBloodFalen&theme=radical&hide_border=true)
+  ![Karunakar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karunakar78&theme=radical&hide_border=true)
   
 
 </div>
@@ -73,7 +73,7 @@
 
 <div align="center">
   
-  ![LuciferBloodFalen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuciferBloodFalen&theme=react-dark&hide_border=true)
+  ![Karunakar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karunakar78&theme=react-dark&hide_border=true)
   
 </div>
 
@@ -81,10 +81,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuciferBloodFalen)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karunakar78)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/karunakar78/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karunakar-raunak-1b92041b9)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://karunakar78.github.io/)
 
 </div>
 
